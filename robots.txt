@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carlosleme1978-stack.github.io/bitcoin-landing-pack/sitemap.xml
